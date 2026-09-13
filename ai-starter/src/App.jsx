@@ -179,6 +179,10 @@ function App() {
               <span className="contact-label">Telefoon</span>
               <span>0486 66 87 54</span>
             </a>
+            <div className="contact-item">
+              <span className="contact-label">Praktijk</span>
+              <span>3150 Haacht</span>
+            </div>
           </div>
         </section>
       </main>
